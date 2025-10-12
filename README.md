@@ -67,5 +67,7 @@ Vectorization: TF-IDF, Word2Vec, GloVe, BERT embeddings
 ## 🚀 Example Use Case
 
 Goal: Classify customer reviews as Positive or Negative
+
 Model: Logistic Regression + TF-IDF
+
 Result: Helps businesses understand customer sentiment automatically and improve services.
