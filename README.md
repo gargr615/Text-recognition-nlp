@@ -3,6 +3,7 @@
 Welcome to the **Text Classification (NLP) Project**!
 
 This project presents an interactive and dynamic dashboard built using **Python** to visualize and analyze healthcare data, helping stakeholders make informed decisions quickly.
+
 --
 
 Text Classification is a fundamental task in Natural Language Processing (NLP) that involves automatically categorizing text into predefined labels or classes.
