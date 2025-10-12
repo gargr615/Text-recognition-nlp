@@ -20,6 +20,7 @@ Topic Categorization (sports, politics, technology, etc.)
 Intent Detection in chatbots
 
 Toxic Comment Detection or Fake News Identification
+
 --
 
 ## 📝 Introduction
